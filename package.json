@@ -1,0 +1,25 @@
+{
+  "name": "dynamics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardosaracino/node-dynamics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardosaracino/node-dynamics/issues"
+  },
+  "homepage": "https://github.com/ricardosaracino/node-dynamics#readme",
+  "dependencies": {
+    "adal-node": "^0.1.28",
+    "dynamics-web-api": "^1.4.7",
+    "express": "^4.16.4"
+  }
+}
